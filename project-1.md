@@ -28,7 +28,7 @@ A flow may be described as a process triggered when a user sends an HTTP request
 - Project/Dependency Management: Maven
 
 ### Presentation
-- Week 5 Monday: 5 minute presentation
+- Week 5 Friday: 5 minute presentation
   - Personal introduction & Project explanation
   - Live demonstration
   - Q&A
